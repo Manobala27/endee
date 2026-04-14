@@ -1,0 +1,4 @@
+AI is used in healthcare
+Machine learning helps predictions
+Python is used for AI
+Deep learning uses neural networks
