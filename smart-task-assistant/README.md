@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![AI](https://img.shields.io/badge/Type-Agentic%20AI-orange)
+
+
+
 # Agentic AI: Weekly Planner Assistant
 
 A comprehensive task management system with day-based planning, conversational intelligence, and a modern tabbed dashboard.
